@@ -53,6 +53,14 @@ Typescript Project Web
 - Refactorización
 - Arreglos rápidos.
 
+> Editor js
+> Install the package via NPM or Yarn
+
+- `npm i @editorjs/editorjs --save`
+  > Include module in your application / archive
+- `import EditorJS from '@editorjs/editorjs`
+- [video](https://www.youtube.com/watch?v=TVLURx2nFqw&t=3s)
+
 # npm
 
 ![](https://camo.githubusercontent.com/28dba1b781133dc2823f8c2a4f1f1c73fb94bcf49b546d0e019c8e3e3cdaf275/68747470733a2f2f7374617469632e706c61747a692e636f6d2f6d656469612f757365725f75706c6f61642f4a5325323025453225383025393325323033312d64643864656665342d323962662d346262392d383236302d3037666238306439363562632d38316532393666312d363337302d343465302d386536642d6665313934363832366162612e6a7067)
