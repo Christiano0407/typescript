@@ -14,6 +14,8 @@ Typescript Project Web
 - `npm install -g typescript`
 - `npm install typescript ts-loader @types/express -D`
 - `tsc --version`
+  > For our nightly builds:
+- `npm install -g typescript@next`
   > Usando el compilador tsc
 - `tsc hello.ts > ls`
   > La opción --watch
