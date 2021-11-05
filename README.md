@@ -57,6 +57,17 @@ Typescript Project Web
 
 ![](https://camo.githubusercontent.com/28dba1b781133dc2823f8c2a4f1f1c73fb94bcf49b546d0e019c8e3e3cdaf275/68747470733a2f2f7374617469632e706c61747a692e636f6d2f6d656469612f757365725f75706c6f61642f4a5325323025453225383025393325323033312d64643864656665342d323962662d346262392d383236302d3037666238306439363562632d38316532393666312d363337302d343465302d386536642d6665313934363832366162612e6a7067)
 
+# Nodemon
+
+- nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+- nodemon does not require any additional changes to your code or method of development. nodemon is a replacement wrapper for node. To use nodemon, replace the word node on the command line when executing your script.
+
+> Global Install
+
+- `npm install -g nodemon`
+  > nstall nodemon as a development dependency:
+- `npm install --save-dev nodemon`
+
 # MIT License
 
 MIT License

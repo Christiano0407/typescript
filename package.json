@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Christiano0407/typescript/issues"
   },
-  "homepage": "https://github.com/Christiano0407/typescript#readme"
+  "homepage": "https://github.com/Christiano0407/typescript#readme",
+  "dependencies": {
+    "@editorjs/editorjs": "^2.22.2"
+  }
 }
